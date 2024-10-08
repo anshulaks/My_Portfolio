@@ -76,6 +76,10 @@ function Projects() {
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               ghLink="https://github.com/anshulaks"
+<<<<<<< HEAD
+=======
+              
+>>>>>>> 8d9b0fa93285449514ed75a90dc169edffd10b58
             />
           </Col>
         </Row>
