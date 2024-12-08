@@ -61,9 +61,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
+              title="Crop recommendation"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/anshulaks"
+              ghLink="https://github.com/anshulaks/Crop-Recommendation.git"
               
             />
           </Col>
